@@ -2,10 +2,10 @@
 work and home configs for vscode
 
 
-## no-mouse
+### no-mouse
 
-### extensions
+**extensions**
 - https://github.com/metaseed/metaGo
 
 
-### guides/videos
+**guides/videos**
